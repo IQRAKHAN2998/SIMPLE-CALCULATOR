@@ -1,5 +1,5 @@
 {
-  "name": "calculator",
+  "name": "iq-simple-calculator",
   "version": "1.0.0",
   "description": "a simple calculator with typescript node.js and inquirer",
   "main": "index.js",
